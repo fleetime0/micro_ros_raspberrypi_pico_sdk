@@ -182,6 +182,9 @@ shape_msgs/Mesh.msg
 shape_msgs/MeshTriangle.msg
 shape_msgs/Plane.msg
 shape_msgs/SolidPrimitive.msg
+skynet_msgs/GetPID.srv
+skynet_msgs/SetOled.srv
+skynet_msgs/SetPID.srv
 statistics_msgs/MetricsMessage.msg
 statistics_msgs/StatisticDataPoint.msg
 statistics_msgs/StatisticDataType.msg
